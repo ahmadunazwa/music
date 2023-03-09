@@ -1,24 +1,24 @@
 let playlist = [ {
   'title': 'Rolling in the deep by Adele',
-  'audio': "assets/sample2.mp3",
+  'audio': "sample2.mp3",
 }, {
   'title': 'Fireworks by Katy Perry',
-  'audio': "assets/sample3.mp3",
+  'audio': "sample3.mp3",
 }, {
   'title': 'Billionaire by Bruno Mars',
-  'audio': "assets/sample.mp3",
+  'audio': "sample.mp3",
 }, {
   'title': 'Give Me Your Forever',
-  'audio': "assets/sample4.mp3",
+  'audio': "sample4.mp3",
 }, {
    'title': 'Perfect',
-  'audio': "assets/sample5.mp3",
+  'audio': "sample5.mp3",
 }, {
-	'title': 'Imagination',
-  'audio': "assets/sample6.mp3",
+   'title': 'Imagination',
+  'audio': "sample6.mp3",
 }, {
-	'title': 'Minefields',
-  'audio': "assets/sample7.mp3"
+   'title': 'Minefields',
+  'audio': "sample7.mp3"
 } ];
 i = 0;
 n = playlist.length;
